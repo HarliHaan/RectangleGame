@@ -15,13 +15,13 @@ Before you start, make sure you have the following software installed on your co
 1. **Clone the repository**: Download the program files to your computer.
 
     ```sh
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/HarliHaan/RectangleGame
     ```
 
 2. **Navigate to the project directory**:
 
     ```sh
-    cd your-repo-name
+    cd RectangleGame
     ```
 
 3. **Compile the program**: Open a terminal in the project directory and run the following command:
@@ -52,5 +52,3 @@ The rectangle will move in steps of 50 pixels within the 700x700 window.
 - **Game Class**: Handles the game logic and user input.
     - The rectangle's position is updated based on arrow key inputs.
     - The `paintComponent` method is used to draw the rectangle on the screen.
-
-Feel free to explore and modify the code to learn more about Java Swing and key event handling!
